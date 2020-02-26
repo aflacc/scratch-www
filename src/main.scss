@@ -1,5 +1,6 @@
 @import "colors";
 @import "frameless";
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
 
 /* Tags */
 html,
@@ -9,7 +10,7 @@ body {
     background-color: $ui-blue-dark;
     padding: 0;
     color: $type-gray;
-    font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    font-family: "Nunito";
 }
 
 /* Typography */
